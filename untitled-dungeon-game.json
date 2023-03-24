@@ -1,0 +1,9 @@
+{
+  "items":[
+    {
+      "name":"sword0",
+      "damage":10,
+      "x-offset":8
+    }
+  ]
+}
